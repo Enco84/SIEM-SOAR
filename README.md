@@ -20,36 +20,6 @@ The Azure CLI is available to install in Windows, macOS and Linux environments. 
 How to install the Azure CLI
 Create Your Azure Free Account Today | Microsoft Azure
 Get started with 12 months of free services, 40+ services that are always free, and USD200 in credit. Create your free account today with Microsoft Azure.
-HAKAN — Aujourd’hui à 20:39
-# Infrastructure as Code with Terraform on Azure
-
-This repository contains the Terraform configuration to deploy a simple Azure infrastructure using the [Quickstart: Use Terraform to create a Linux VM](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-terraform?tabs=azure-cli) guide.
-
-## Infrastructure Overview
-Afficher plus
-README.md
-3 Ko
-enco84 — Aujourd’hui à 20:39
-Bien sûr, voici le code complet pour votre fichier README.md en utilisant le modèle que je vous ai fourni. Vous pouvez copier et coller ce code dans votre fichier README.md et personnaliser les détails spécifiques à votre projet :
-
-
-# Azure Infrastructure Deployment
-
-## Overview
-Afficher plus
-deploiement.txt
-3 Ko
-enco84 — Aujourd’hui à 21:13
-Image
-HAKAN — Aujourd’hui à 21:16
-# Infrastructure as Code with Terraform on Azure
-
-This repository contains the Terraform configuration to deploy a simple Azure infrastructure using the [Quickstart: Use Terraform to create a Linux VM](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-terraform?tabs=azure-cli) guide.
-
-## Infrastructure Overview
-Afficher plus
-README_1.md
-3 Ko
 ﻿
 # Infrastructure as Code with Terraform on Azure
 
