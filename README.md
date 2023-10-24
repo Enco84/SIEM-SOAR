@@ -89,8 +89,9 @@ project-root/
 ## Diagram
 
 Here is an architectural diagram illustrating the deployed infrastructure:
+![diag-cloud](https://github.com/Enco84/SIEM-SOAR/assets/91246163/74b1cfc1-dd3e-4d10-af2b-b3df4fba1ef1)
 
-![image](https://github.com/Casper1045/SIEM-SOAR/assets/61239359/60a520de-abf7-4e86-be7b-82ade1bbdd8f)
+
 
 ## How to Deploy
 
